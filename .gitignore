@@ -241,4 +241,10 @@ $RECYCLE.BIN/
 
 */build/*
 
+## SAM Infra
+template.yaml
+samconfig.toml
+tests/
+events/
+
 # End of https://www.gitignore.io/api/osx,linux,python,windows,pycharm,visualstudiocode
